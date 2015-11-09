@@ -1,4 +1,4 @@
 # herro
 
-system.lol.kek.Execute.Urself();
+system.lol.kek.execute.urself();
 
